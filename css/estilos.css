@@ -43,4 +43,7 @@ body
 #copirri p
 {
  text-align: center;
+ background: rgb(255, 0, 0);
+ margin: 0;
+ padding: 0.2em;
 }
